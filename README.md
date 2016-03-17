@@ -1,4 +1,4 @@
-# Weibo-Swift2.0
+# travel Swift2.0
 学习Swift2.0,旅游项目的开发
 
 开发环境:xcode7 beta4 / ios9.0 
